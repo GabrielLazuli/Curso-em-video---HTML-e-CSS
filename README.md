@@ -30,10 +30,10 @@ Neste primeiro módulo, o foco principal é a construção de uma base sólida s
 - [x] **Configuração do Ambiente:** Instalação e configuração do **Visual Studio Code** (VS Code) e extensões fundamentais para a produtividade.
 - [x] **Estrutura Básica HTML5:** Estrutura raiz de um documento HTML (`<html>`, `<head>`, `<body>`), metadados e configuração de idioma.
 - [x] **Semântica e Formatação de Texto:** Títulos (`h1` a `h6`), parágrafos (`p`), quebras de linha (`br`), formatação de texto (negrito, itálico, marcações, citações, etc).
-- [] **Símbolos e Emojis:** Inserção de entidades e emojis no código.
-- [] **Listas:** Listas ordenadas (`ol`), não ordenadas (`ul`) e listas de definição (`dl`).
+- [x] **Símbolos e Emojis:** Inserção de entidades e emojis no código.
+- [x] **Listas:** Listas ordenadas (`ol`), não ordenadas (`ul`) e listas de definição (`dl`).
 - [] **Links e Navegação:** Ligações internas e externas (`a`), download de arquivos e navegação entre as páginas do próprio site (âncoras).
-- [] **Multimídia:**
+- [x] **Multimídia:**
   - Inserção de Imagens (`img`) estáticas e dinâmicas (`picture` / `source`).
   - Adição de Favicon.
   - Inclusão de Áudios (`audio`).
