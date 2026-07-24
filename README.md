@@ -32,7 +32,7 @@ Neste primeiro módulo, o foco principal é a construção de uma base sólida s
 - [x] **Semântica e Formatação de Texto:** Títulos (`h1` a `h6`), parágrafos (`p`), quebras de linha (`br`), formatação de texto (negrito, itálico, marcações, citações, etc).
 - [x] **Símbolos e Emojis:** Inserção de entidades e emojis no código.
 - [x] **Listas:** Listas ordenadas (`ol`), não ordenadas (`ul`) e listas de definição (`dl`).
-- [] **Links e Navegação:** Ligações internas e externas (`a`), download de arquivos e navegação entre as páginas do próprio site (âncoras).
+- [x] **Links e Navegação:** Ligações internas e externas (`a`), download de arquivos e navegação entre as páginas do próprio site (âncoras).
 - [x] **Multimídia:**
   - Inserção de Imagens (`img`) estáticas e dinâmicas (`picture` / `source`).
   - Adição de Favicon.
