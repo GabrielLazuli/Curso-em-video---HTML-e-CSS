@@ -9,7 +9,7 @@
 
 <div align="center">
 
-  ![Status](https://img.shields.io/badge/Status-Em_Andamento-brightgreen?style=for-the-badge)
+  ![Status](https://img.shields.io/badge/Status-Concluído-brightgreen?style=for-the-badge)
   ![Carga Horária](https://img.shields.io/badge/Carga_Horária-40_Horas-blue?style=for-the-badge&logo=clock)
   ![Módulo](https://img.shields.io/badge/Módulo-1_de_5-orange?style=for-the-badge)
   ![Professor](https://img.shields.io/badge/Professor-Gustavo_Guanabara-blueviolet?style=for-the-badge)
@@ -38,4 +38,4 @@ Neste primeiro módulo, o foco principal é a construção de uma base sólida s
   - Adição de Favicon.
   - Inclusão de Áudios (`audio`).
   - Inclusão de Vídeos (`video`) locais e externos (ex: YouTube, Vimeo).
-- [] **Introdução ao CSS3:** A diferença entre conteúdo (HTML) e design (CSS). Utilização de estilos *Inline*, *Internos* (na tag `<style>`) e *Externos* (arquivo `.css`).
+- [x] **Introdução ao CSS3:** A diferença entre conteúdo (HTML) e design (CSS). Utilização de estilos *Inline*, *Internos* (na tag `<style>`) e *Externos* (arquivo `.css`).
